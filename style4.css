@@ -1,0 +1,36 @@
+p{
+  color:white
+}
+.fb{
+  width: 65px; height: 65px; 
+  background-image: url(images/fb_gray.png); 
+  background-repeat: no-repeat;
+}
+.fb:hover
+{
+  width: 65px; height: 65px; 
+  background-image: url(images/fb.png); 
+  background-repeat: no-repeat;
+}
+.insta{
+  width: 65px; height: 65px; 
+  background-image: url(images/insta_gray.png); 
+  background-repeat: no-repeat;
+}
+.insta:hover
+{
+  width: 65px; height: 65px; 
+  background-image: url(images/insta.png); 
+  background-repeat: no-repeat;
+}
+.yt{
+  width: 65px; height: 65px; 
+  background-image: url(images/youtube_gray.png); 
+  background-repeat: no-repeat;
+}
+.yt:hover
+{
+  width: 65px; height: 65px; 
+  background-image: url(images/youtube.png); 
+  background-repeat: no-repeat;
+}

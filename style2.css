@@ -1,0 +1,27 @@
+div div{
+  width: 200px; 
+  height: 70px; 
+  background-color: gray;
+  margin: auto;
+}
+div{
+  margin: auto;
+  width: fit-content; 
+  height: fit-content; 
+}
+div div:hover{
+  width: 200px;
+  height: 70px; 
+  background-color: rgb(66, 66, 66);
+  margin: auto;
+}
+img{
+  width: 80px;
+  height: 80px; 
+  float: left; 
+  padding-bottom: 5px;
+}
+p{
+  color: white; 
+  padding-top: 25px;
+}
